@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Latihan4_182", "Latihan4_182\Latihan4_182.vcxproj", "{1BD87117-A9E5-4AD0-959A-3269BC3CD122}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Latihan4.2", "Latihan4.2\Latihan4.2.vcxproj", "{378EA177-9C8B-493F-B483-0929381AB610}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{1BD87117-A9E5-4AD0-959A-3269BC3CD122}.Release|x64.Build.0 = Release|x64
 		{1BD87117-A9E5-4AD0-959A-3269BC3CD122}.Release|x86.ActiveCfg = Release|Win32
 		{1BD87117-A9E5-4AD0-959A-3269BC3CD122}.Release|x86.Build.0 = Release|Win32
+		{378EA177-9C8B-493F-B483-0929381AB610}.Debug|x64.ActiveCfg = Debug|x64
+		{378EA177-9C8B-493F-B483-0929381AB610}.Debug|x64.Build.0 = Debug|x64
+		{378EA177-9C8B-493F-B483-0929381AB610}.Debug|x86.ActiveCfg = Debug|Win32
+		{378EA177-9C8B-493F-B483-0929381AB610}.Debug|x86.Build.0 = Debug|Win32
+		{378EA177-9C8B-493F-B483-0929381AB610}.Release|x64.ActiveCfg = Release|x64
+		{378EA177-9C8B-493F-B483-0929381AB610}.Release|x64.Build.0 = Release|x64
+		{378EA177-9C8B-493F-B483-0929381AB610}.Release|x86.ActiveCfg = Release|Win32
+		{378EA177-9C8B-493F-B483-0929381AB610}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
